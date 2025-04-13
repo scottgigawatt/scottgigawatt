@@ -28,7 +28,7 @@ Hi, I'm **Scott Gigawatt** — a dev powered by caffeine, shell scripts, and occ
 - ⚙️ Ansible, because hand-configuring is for chumps
 - 🚫 Manual config? Only during historical reenactments
 
-## 🕰️ Roads? Where We're Going
+## 🕰️ Roads? Where We're Going…
 
 - Occasionally in 1985 🕰️
 - Probably mid-container-restart
