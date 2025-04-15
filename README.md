@@ -1,7 +1,11 @@
+_⚠️ Warning: Unstarred projects may destabilize the timeline. Proceed with stars and snacks._
+
+![⚡ Flux Capacitor](https://img.shields.io/badge/%E2%9A%A1_Flux_Capacitor-Online-yellow) ![Time Circuits On](https://img.shields.io/badge/Time%20Circuits-ON-brightgreen) ![88 MPH](https://img.shields.io/badge/Speed-88%20MPH-critical) ![Mr. Fusion](https://img.shields.io/badge/Power-Mr.%20Fusion-lightgrey) ![Temporal Instability](https://img.shields.io/badge/Neutrino%20Flow-Unstable-red) ![Hoverboard Certified](https://img.shields.io/badge/Hoverboard-Certified-magenta) ![Outatime](https://img.shields.io/badge/License-OUTATIME-blue) ![Great Scott!](https://img.shields.io/badge/Catchphrase-Great%20Scott%21-orange)
+
 # 🚀 Great Scott! Welcome to the Lab! 🧪⚡
 
 > [!IMPORTANT]
-> "If my calculations are correct, when this repo hits 88 commits per hour... you're gonna see some serious code." — *Probably Doc Brown*
+> "If my calculations are correct, when this repo hits 88 commits per hour... you're gonna see some serious code." — _Probably Doc Brown_
 
 Hi, I'm **Scott Gigawatt** — a dev powered by caffeine, shell scripts, and occasional bursts of cosmic radiation. I write code on macOS, run my homelab like a rogue science experiment on Synology, and containerize everything except my espresso machine (still working on that Dockerfile). Somewhere between a malformed cron job and a possibly radioactive Raspberry Pi cluster, I found enlightenment — or maybe just a recursive log loop. Either way, welcome to the lab.
 
@@ -47,5 +51,5 @@ And then there's this 👇
 
 Decode it, and you'll be 1.21 steps closer to the truth.
 
-Or maybe this is all a diversion to keep you from finding the *real* Easter egg...
+Or maybe this is all a diversion to keep you from finding the _real_ Easter egg...
 Happy hunting, chrononaut. 🌀
