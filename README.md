@@ -1,6 +1,21 @@
-_⚠️ Warning: Unstarred projects may destabilize the timeline. Proceed with stars and snacks._
+<hr />
 
-![⚡ Flux Capacitor](https://img.shields.io/badge/%E2%9A%A1%20Flux%20Capacitor-Online-yellow) ![🕒 Time Circuits On](https://img.shields.io/badge/%F0%9F%95%92%20Time%20Circuits%20On-ON-brightgreen) ![🚗💨 88 MPH](https://img.shields.io/badge/%F0%9F%9A%97%F0%9F%92%A8%20Speed-88%20MPH-critical) ![🔋 Mr. Fusion](https://img.shields.io/badge/%F0%9F%94%8B%20Power-Mr.%20Fusion-lightgrey) ![💥 Neutrino Flow](https://img.shields.io/badge/%F0%9F%92%A5%20Neutrino%20Flow-Unstable-red) ![🛹 Hoverboard Certified](https://img.shields.io/badge/%F0%9F%9B%B9%20Hoverboard%20-Certified-magenta) ![🧾 License Outatime](https://img.shields.io/badge/%F0%9F%A7%BE%20License-OUTATIME-blue) ![🧪 Great Scott!](https://img.shields.io/badge/%F0%9F%A7%AA%20Catchphrase%20-Great%20Scott%21-orange)
+<p align="center">
+  <em>⚠️ Warning: Unstarred projects may destabilize the timeline. Proceed with stars and snacks.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Flux%20Capacitor-Online-yellow" alt="⚡ Flux Capacitor" />
+  <img src="https://img.shields.io/badge/%F0%9F%95%92%20Time%20Circuits%20On-ON-brightgreen" alt="🕒 Time Circuits On" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%97%F0%9F%92%A8%20Speed-88%20MPH-critical" alt="🚗💨 88 MPH" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%8B%20Power-Mr.%20Fusion-lightgrey" alt="🔋 Mr. Fusion" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%A5%20Neutrino%20Flow-Unstable-red" alt="💥 Neutrino Flow" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%B9%20Hoverboard%20-Certified-magenta" alt="🛹 Hoverboard Certified" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%BE%20License-OUTATIME-blue" alt="🧾 License Outatime" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AA%20Catchphrase%20-Great%20Scott%21-orange" alt="🧪 Great Scott!" />
+</p>
+
+<hr />
 
 # 🚀 Great Scott! Welcome to the Lab! 🧪⚡
 
