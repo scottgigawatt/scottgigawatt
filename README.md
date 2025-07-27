@@ -19,14 +19,14 @@
 
 # 🚀 Great Scott! Welcome to the Lab! 🧪⚡
 
-> [!IMPORTANT]
+> [!WARNING]
 > "If my calculations are correct, when this repo hits 88 commits per hour... you're gonna see some serious code." — _Probably Doc Brown_
 
 Hi, I'm **Scott Gigawatt** — a dev powered by caffeine, shell scripts, and occasional bursts of cosmic radiation. I write code on macOS, run my homelab like a rogue science experiment on Synology, and containerize everything except my espresso machine (still working on that Dockerfile). Somewhere between a malformed cron job and a possibly radioactive Raspberry Pi cluster, I found enlightenment — or maybe just a recursive log loop. Either way, welcome to the lab.
 
 ![Back to the Lab](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWczMzB4NGFvc3h2NWltZXcxemNzdm1yMjBwYWp4dHZnM3h2dHZuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkYl1qlzkxPRbklfXx/giphy.gif)
 
-> [!WARNING]
+> [!CAUTION]
 > Repos may contain traces of sarcasm, outdated dependencies, and unstable neutrino flows. Proceed with curiosity.
 
 ## 🧠 What I'm Cookin' in the Lab
