@@ -15,6 +15,18 @@
   <img src="https://img.shields.io/badge/%F0%9F%A7%AA%20Catchphrase%20-Great%20Scott%21-orange" alt="🧪 Great Scott!" />
 </p>
 
+<p align="center">─── ⛧ ───</p>
+
+<p align="center">
+  <em>⚡ Out of time and trapped in the underworld? Fire up the flux capacitor and <strong>Enter 🔥HADES🔥</strong>.</em>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/BpEGzWwGYf">
+    <img src="https://img.shields.io/discord/1403601106315116626?label=Enter%20%F0%9F%94%A5HADES%F0%9F%94%A5&logo=discord&logoColor=white&color=5865F2" alt="Enter 🔥HADES🔥 Discord" />
+  </a>
+</p>
+
 <hr />
 
 # 🚀 Great Scott! Welcome to the Lab! 🧪⚡
