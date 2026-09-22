@@ -1,4 +1,4 @@
-# Great Scott! ⚡
+# Great Scott! ⚡ ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=scottgigawatt.scottgigawatt)
 
 Hi, I'm **Scott**. I build self-hosted tools for media servers, Docker, and
 Synology — usually because I got tired of doing something by hand and decided to
