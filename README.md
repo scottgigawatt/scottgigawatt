@@ -8,7 +8,7 @@ to make the solution everyone else's problem.
 My natural habitat is somewhere between a tidy Compose file and a cron job I
 definitely remember creating.
 
-_1.21 gigawatts? Please. That's idle._
+_1.21 gigawatts? Please. That's my homelab's idle power draw._
 
 ![Back to the Future lab GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWczMzB4NGFvc3h2NWltZXcxemNzdm1yMjBwYWp4dHZnM3h2dHZuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CkYl1qlzkxPRbklfXx/giphy.gif)
 
